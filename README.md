@@ -1,0 +1,2 @@
+# adminlicensavistoriaDK
+FERRAMENTA PARA VISTORIA DE IMOVEL LOCAÇÃO
